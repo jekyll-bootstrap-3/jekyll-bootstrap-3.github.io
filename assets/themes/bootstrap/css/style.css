@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Oswald Light'), local('Oswald-Light'), url(../fonts/oswald-light.woff) format('woff');
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Oswald Regular'), local('Oswald-Regular'), url(../fonts/oswald-reg.woff) format('woff');
+}
+
+/* Navbar Start */
+.navbar-inverse { background-color: #2c3e50 !important; border-color: #c0392b !important; border-bottom: 1px solid;}
+
+.navbar-inverse a { color: #f2f2f2 !important;}
+.navbar-inverse a:hover, .navbar-inverse li.active a { color: #ffffff !important; background: #3276B1 !important;}
+
+[att^=h] {
+    font-family: Oswald;
+}
+
+.container {
+    margin-top: 50px;
+}
