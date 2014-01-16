@@ -131,8 +131,6 @@ Jekyll supports various configuration options that are fully outlined here:
 <https://github.com/mojombo/jekyll/wiki/Configuration>
 
 
-
-
 ## Content in Jekyll
 
 Content in Jekyll is either a post or a page.
