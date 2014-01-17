@@ -42,6 +42,4 @@ For original project's usage and documentation please see: <http://jekyllbootstr
 
 ## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/dbtek/jekyll-bootstrap-3)!
-
-
+This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/jekyll-bootstrap-3/bootstrap-theme)!
