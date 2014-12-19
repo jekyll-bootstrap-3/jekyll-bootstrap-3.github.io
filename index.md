@@ -1,14 +1,20 @@
 ---
-layout: page
+layout: default
 title:
 tagline: 
 ---
 
-<div class="jumbotron">
-  <h1>Jekyll Bootstrap-3</h1>
-  <p>The Quickest Way to Blog on GitHub Pages</p>
-  <p>Now with Power of Bootstrap 3</p>
-  <p><a href="https://github.com/dbtek/jekyll-bootstrap-3" class="btn btn-primary btn-lg">On Github</a></p>
+<div class="jumbotron" style="width: 100%;">
+  <div class="col-lg-8">
+    <h1>Jekyll Bootstrap-3</h1>
+    <p>The Quickest Way to Blog on GitHub Pages</p>
+    <p>Now with Power of Bootstrap 3</p>
+    <p><a href="https://github.com/dbtek/jekyll-bootstrap-3" class="btn btn-primary btn-lg">On Github</a></p>
+  </div>
+  <div class="col-lg-4 col-sm-6 col-sm-offset-3 col-lg-offset-0">
+    <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=jekyllbootstrap3tk" id="_carbonads_js"></script>
+  </div>
+  <div class="clearfix"></div>
 </div>
 
 Easily publish Bootstrap 3 powered Jekyll sites.  

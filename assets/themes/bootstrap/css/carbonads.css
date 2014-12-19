@@ -1,0 +1,21 @@
+#carbonads {
+  font-size: 13px;
+  line-height: 1.428571429;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-height: 120px;
+  background: #fafafa;
+}
+#carbonads .carbon-img {
+  display: block;
+  float: left;
+  padding-right: 10px;
+}
+#carbonads .carbon-text {
+  display: block;
+}
+#carbonads .carbon-poweredby {
+  margin-top: 5px;
+  color: #666;
+}
